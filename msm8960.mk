@@ -69,4 +69,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Wifi
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0 \
-    wifi.supplicant_scan_interval=30
+    wifi.supplicant_scan_interval=120
